@@ -3,7 +3,7 @@
 An AI-powered smart safety system designed to detect helmet usage using computer vision and improve road safety through real-time monitoring.
 
 🏆 **Achievement:**
-Built for **SciFusion Event (20–21 April 2026)** and awarded **🥉 3rd Prize**.
+Built for **SciFusion Event (Chandigarh University Uttar Pradesh)(20–21 April 2026)** and awarded **🥉 3rd Prize**.
 
 ---
 
