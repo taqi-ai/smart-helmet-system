@@ -1,4 +1,4 @@
-# 🪖 Smart Helmet System 🚀
+# 🪖 Smart Helmet Detection System 🚀
 
 An AI-powered smart safety system designed to detect helmet usage using computer vision and improve road safety through real-time monitoring.
 
